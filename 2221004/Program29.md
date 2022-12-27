@@ -1,5 +1,5 @@
-## Program 22: Write a code using strcmp.
-```
+### Program 29: Write a code using strcmp.
+```C
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -12,6 +12,6 @@ return 0;
 }
 ```
 Output 
-```
+```C
 The fox
 ```
