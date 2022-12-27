@@ -1,5 +1,5 @@
-## Write a program to use switch statement
-```
+### Program 37:Write a program to use switch statement
+```C
 #include <stdio.h>
 
 int main(){
@@ -27,8 +27,8 @@ int main(){
     return 0;
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter 1 for fan,2 for light,3 for ac, 4 for heater : 4
 Heater On
 Enter 1 for fan,2 for light,3 for ac, 4 for heater : 3
