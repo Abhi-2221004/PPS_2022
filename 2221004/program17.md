@@ -1,5 +1,5 @@
-## Program 17: Tutorial Program #2
-```c 
+### Program 17: Tutorial Program #2
+```C
 #include <stdio.h>
 
 int main(){
@@ -12,7 +12,7 @@ int main(){
 ```
 
 ### Output:
-```
+```C
 Niko scored: 94.678001
 Second scored: 21.300000
 ```
