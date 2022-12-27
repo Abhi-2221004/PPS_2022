@@ -1,4 +1,4 @@
-### Program 3:Print numbers from 1 to 10 
+### Program 03:Print numbers from 1 to 10 
 
 ```C
 #include <stdio.h>
@@ -29,10 +29,9 @@ int main() {
 
 }
 ```
-
 ### Output :-
 ```C
- 1
+1
 2
 3
 4
