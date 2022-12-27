@@ -1,4 +1,4 @@
-### Write a program to perform linear search
+### Program 40: Write a program to perform linear search
 ```C
 #include <stdio.h>
 
