@@ -14,4 +14,6 @@ return 0;
 }
 ```
 
-## Output: Hello World
+### Output: 
+```C
+Hello World
