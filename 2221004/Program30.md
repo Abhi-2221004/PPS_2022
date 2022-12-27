@@ -1,5 +1,5 @@
- ## Write a program using string reverse functions.
-```
+ ### Program 30: Write a program using string reverse functions.
+```C
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -10,8 +10,8 @@ int main()
 	return 0;
 }
 ```
-Output :
-```
+### Output :
+```C
 
 The given string is = MADAM
 After reversing string is = MADAM
