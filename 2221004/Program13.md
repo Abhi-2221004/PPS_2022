@@ -1,4 +1,4 @@
-## Program13:To find area of a square 
+### Program 13:To find area of a square 
 ```C
 #include<stdio.h>
 int main()
@@ -11,4 +11,6 @@ printf("area is : %d", 20*20);
 return 0;
 }
 ```
-## Output: 400
+## Output: 
+```C
+400
