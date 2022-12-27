@@ -1,4 +1,4 @@
-### Program10: To write a code using function and while loop
+### Program06: To write a code using function and while loop
 ```C
 #include <stdio.h>
 
@@ -32,7 +32,7 @@ while(i<5)
     return 0;
     
 }
-
+```
 ### Output:
 ```C
 
