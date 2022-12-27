@@ -1,5 +1,5 @@
-## Write a program to calculate the length of a string using strlen()
-```
+### Program 15: Write a program to calculate the length of a string using strlen()
+```C
 #include <stdio.h>
 #include <string.h>
 
@@ -15,6 +15,6 @@ int main() {
 }
 ```
 Output:
-```
+```C
 Enter a string -> Ginger
 Length of string - 6
