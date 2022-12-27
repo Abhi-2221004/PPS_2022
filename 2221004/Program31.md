@@ -1,6 +1,6 @@
 
-## Program 3: Write a program to get user input
-```
+### Program 31: Write a program to get user input
+```C
 #include<stdio.h>
 
 int main(){
@@ -18,7 +18,7 @@ int main(){
 }
 ```
 Output:
-```
+```C
 Enter username -> Abhi Negi
 Enter Roll number -> 2221004
 
