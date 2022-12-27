@@ -1,4 +1,4 @@
-### Program11: To write a code using bitwise operator
+### Program07: To write a code using bitwise operator
 ```C
 #include <stdio.h>
 
@@ -19,7 +19,7 @@ int main()
    return 0;
    
 }
-
+```
 ### Output:
 ```C
 a=12 , b=25
