@@ -1,7 +1,6 @@
-## Write a program to use jump statements(break and continue)
-```
+### Program 35:Write a program to use jump statements(break and continue)
 #include <stdio.h>
-
+```C
 int main(){
     for(int i=1;i<=50;i++){
         if(i==20)break;
@@ -13,7 +12,7 @@ int main(){
 }
 ```
 Output:
-```
+```C
 1
 3
 5
