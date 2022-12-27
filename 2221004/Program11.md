@@ -1,5 +1,5 @@
-Program16: To write a code using Arrays
-
+### Program 11: To write a code using Arrays
+```C
 #include<stdio.h>
 
 int main()
@@ -13,5 +13,7 @@ printf("%d", i[0]);
 return 0;
 
 }
-
-**Output**: 25 
+```
+### Output:
+```C 
+25 
