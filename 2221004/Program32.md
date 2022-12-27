@@ -1,5 +1,5 @@
-## Write a program to display operators in C
-```
+### Program 32: Write a program to display operators in C
+```C
 #include<stdio.h>
 
 int main(){
@@ -26,7 +26,7 @@ int main(){
 }
 ```
 Output:
-```
+```C
 A = 50
  B = 5
 
