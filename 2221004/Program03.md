@@ -1,6 +1,6 @@
-## Print numbers from 1 to 10 
+### Print numbers from 1 to 10 
 
-
+```C
 #include <stdio.h>
 
 
@@ -28,9 +28,10 @@ int main() {
 
 
 }
+```
 
-
-## Output :-
+### Output :-
+```C
  1
 2
 3
