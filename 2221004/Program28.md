@@ -1,5 +1,5 @@
-## Write a program using string comparison function :-
-```
+### Program 28: Write a program using string comparison function :-
+```C
 #include<stdio.h>
 
 #include<string.h>
@@ -33,6 +33,6 @@ return 0;
 }
 ```
 Output :
-```
+```C
 
 String 1 and String 2 are not equal
