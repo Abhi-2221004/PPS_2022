@@ -1,4 +1,4 @@
-### Using While loop 
+### Program 5:Using While loop 
 ```C
 
 #include <stdio.h>
@@ -22,7 +22,7 @@ i++;
 
 }
 
-
+```
 ### Output:- 
 ```C
 1
