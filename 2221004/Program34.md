@@ -1,7 +1,7 @@
-## Write a program to demonstrate for loop in C
+### Program 34: Write a program to demonstrate for loop in C
 ```
 #include <stdio.h>
-
+```C
 //Program to demonstrate for loop
 
 int main(){
@@ -17,7 +17,7 @@ int main(){
     return 0;
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter number to count to: 10
 1	2	3	4	5	6	7	8	9	10
