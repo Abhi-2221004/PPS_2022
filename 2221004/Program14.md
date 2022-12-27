@@ -1,5 +1,5 @@
-## print number using do while
-```
+### Program 14:Print number using do while
+```C
 #include<stdio.h>
 int main()
 {
@@ -13,8 +13,8 @@ while(a<20);
 return 0;
 }
 ```
-## Output:-
-```
+### Output:-
+```C
 Value of a: 10
 Value of a: 11
 Value of a: 12
