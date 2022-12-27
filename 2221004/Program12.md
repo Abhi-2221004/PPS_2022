@@ -1,5 +1,5 @@
-## Program2:Write a program to add 2 numbers
-
+### Program 12:Write a program to add 2 numbers
+```C
 #include<stdio.h>
 
 int main()
@@ -19,5 +19,7 @@ printf("%d",Z);
 return 0;
 
 }
-
-## Output: 30
+```
+### Output:
+```C
+ 30
