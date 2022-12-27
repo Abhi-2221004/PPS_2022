@@ -1,5 +1,5 @@
-## Program14: To write a code using switch statement
-
+### Program14: To write a code using switch statement
+```C
 
 #include <stdio.h>
 
@@ -34,5 +34,7 @@ printf("Today is Monday");
 return 0; 
  
 }
-
-## Output:Today is Monday
+```
+### Output:
+```C
+Today is Monday
