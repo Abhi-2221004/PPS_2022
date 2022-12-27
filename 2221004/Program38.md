@@ -1,5 +1,5 @@
-## Write a program to use conditional operator
-```
+### Program 38:Write a program to use conditional operator
+```C
 #include <stdio.h>
 
 int main(){
@@ -11,7 +11,7 @@ int main(){
     return 0;
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter a number: 3124
 Number is even
