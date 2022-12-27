@@ -15,7 +15,7 @@ int main(){
 ```
 
 ### Output:
-```
+```C
 Enter age
 35
 Child age
