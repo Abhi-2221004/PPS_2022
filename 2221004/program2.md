@@ -1,4 +1,4 @@
-## Program 2: Using While loop
+### Program 2: Using While loop
 
 ```c
 // Using While loop 
@@ -12,8 +12,8 @@ i++;
 }
 ```
 
-## Output
-```
+### Output
+```C
 1
 2
 3
