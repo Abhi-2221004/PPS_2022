@@ -1,4 +1,4 @@
-### Program 2: Write a code to calculate integer
+### Program 04: Write a code to calculate integer
 ```C
 #include<stdio.h>
 
@@ -20,4 +20,4 @@ return 0;
 ```
 ### Output:
 ```C
- 30
+30
