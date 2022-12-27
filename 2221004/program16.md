@@ -1,5 +1,5 @@
-## Program 16: Tutorial Program 1
-```c
+### Program 16: Tutorial Program 1
+```C
 #include <stdio.h>
 int main(){
     char chr;
@@ -10,7 +10,6 @@ int main(){
 }
 ```
 ### Output:
-```
-Please enter a character: [
+```C
+ Please enter a character: [
 The character you entered is [
-```
