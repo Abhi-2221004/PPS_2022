@@ -1,4 +1,5 @@
-## Program 2: Write a code to calculate integer
+### Program 2: Write a code to calculate integer
+```C
 #include<stdio.h>
 
 int main()
@@ -16,5 +17,7 @@ z=x+y;
 printf("%d",z);
 
 return 0;
-
-## Output: 30
+```
+### Output:
+```C
+ 30
