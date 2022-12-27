@@ -1,5 +1,5 @@
-## Using While loop 
-
+### Using While loop 
+```C
 
 #include <stdio.h>
 
@@ -23,7 +23,8 @@ i++;
 }
 
 
-## Output:- 
+### Output:- 
+```C
 1
 2
 3
