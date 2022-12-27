@@ -1,4 +1,4 @@
-### Print numbers from 1 to 10 
+### Program 3:Print numbers from 1 to 10 
 
 ```C
 #include <stdio.h>
