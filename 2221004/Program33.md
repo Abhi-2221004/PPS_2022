@@ -1,5 +1,5 @@
-## Write a program to show use of if statements
-```
+### Program 33: Write a program to show use of if statements
+```C
 #include<stdio.h>
 
 //program to use if statements
@@ -14,8 +14,8 @@ int main(){
 	return 0;
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter a number : 44
 44 is even
 ----------------------------
