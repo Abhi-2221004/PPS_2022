@@ -1,5 +1,5 @@
-## Program15: To write a program to do different operators on a variable
-
+### Program10: To write a program to do different operators on a variable
+```C
 #include<stdio.h>
 
 int main()
@@ -27,9 +27,9 @@ printf("A mod B = %d (remainder operator)\n", a%b);
 return 0;
 
 }
-
-## Output:
-
+```
+### Output:
+```C
 A = 55
 
  B = 10
