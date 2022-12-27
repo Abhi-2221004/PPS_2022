@@ -1,6 +1,6 @@
 ### Program 35:Write a program to use jump statements(break and continue)
-#include <stdio.h>
 ```C
+#include <stdio.h>
 int main(){
     for(int i=1;i<=50;i++){
         if(i==20)break;
