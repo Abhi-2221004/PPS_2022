@@ -1,4 +1,5 @@
 ## print number using do while
+```
 #include<stdio.h>
 int main()
 {
@@ -11,7 +12,9 @@ a=a + 1;
 while(a<20);
 return 0;
 }
+```
 ## Output:-
+```
 Value of a: 10
 Value of a: 11
 Value of a: 12
