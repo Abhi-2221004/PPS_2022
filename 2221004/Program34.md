@@ -1,7 +1,6 @@
 ### Program 34: Write a program to demonstrate for loop in C
-```
-#include <stdio.h>
 ```C
+#include <stdio.h>
 //Program to demonstrate for loop
 
 int main(){
