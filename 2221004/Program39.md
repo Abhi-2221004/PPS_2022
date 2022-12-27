@@ -1,5 +1,5 @@
-## Write a program to swap two numbers without using a third variable
-```
+### Program 39: Write a program to swap two numbers without using a third variable
+```C
 #include <stdio.h>
 
 int main(){
@@ -20,8 +20,8 @@ int main(){
     return 0;
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter first number -> 20
 Enter second number -> 30
 
