@@ -1,5 +1,5 @@
-## Write a program to perform linear search
-```
+### Write a program to perform linear search
+```C
 #include <stdio.h>
 
 int main(){
@@ -25,8 +25,8 @@ int main(){
     printf("\nLocation of %d in array = %d\n",target,ind);
 }
 ```
-Output:
-```
+### Output:
+```C
 Enter size of array
 10
 Enter elements:
